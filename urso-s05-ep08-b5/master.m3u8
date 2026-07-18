@@ -1,0 +1,5 @@
+#EXTM3U
+#EXT-X-VERSION:6
+
+#EXT-X-STREAM-INF:BANDWIDTH=1239805,RESOLUTION=1280x720
+https://raw.githubusercontent.com/Jhelly7/compiled07/job-urso-s05-ep08-b5/urso-s05-ep08-b5/hls/index.m3u8
